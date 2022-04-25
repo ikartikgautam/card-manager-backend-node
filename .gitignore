@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# Config
+config.json
+
+#
+*.zip
